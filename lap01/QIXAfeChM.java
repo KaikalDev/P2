@@ -2,6 +2,11 @@ import java.util.Scanner;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Laboratório de Programação 2 - Lab 1
+ *
+ * @author Kaique - 20260011498
+ */
 public class QIXAfeChM {
     public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);

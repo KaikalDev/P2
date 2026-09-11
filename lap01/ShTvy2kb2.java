@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * Laboratório de Programação 2 - Lab 1
+ *
+ * @author Kaique - 20260011498
+ */
 public class ShTvy2kb2 {
     public static String gera_dados(String[] entrada) {
         int soma = 0;

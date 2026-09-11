@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * Laboratório de Programação 2 - Lab 1
+ *
+ * @author Kaique - 20260011498
+ */
 public class Q4wuqKxnM {
     public static boolean is_vogal(char l) {
         if (l == 'a' || l == 'e' || l == 'i' || l == 'o' || l == 'u') {
