@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+/**
+ * Laboratório de Programação 2 - Lab 1
+ *
+ * @author Kaique - 20260011498
+ */
+public class Qw4Vizxo0 {
+    public static void main(String[] args) {
+    	Scanner sc = new Scanner(System.in);
+        int[] list = new int[5];
+
+        for (int i = 0; i < 5; i++) {
+            list[i] = sc.nextInt();
+        }
+        int index1 = sc.nextInt();
+        int index2 = sc.nextInt();
+        System.out.println(list[index1] + list[index2]);
+    }
+}
+
